@@ -1,8 +1,8 @@
-# Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping: E-Commerce Back End
 
 ## Description
 
-This application interacts with sequelize database and utilizes get, post, put, and delete routes to manipulate data. [Video Demonstration](https://www.youtube.com/watch?v=dE_QEz7cKtc)
+This application interacts with sequelize and utilizes get, post, put, and delete routes to manipulate data on the local database. [Video Demonstration](https://www.youtube.com/watch?v=dE_QEz7cKtc)
 
 ## Table of Contents
 
